@@ -5,4 +5,4 @@ Hello, my name is Guillermo, I'm from Argentina
 -I’m currently learning coding skills, machine learning, AWS and GitHub.
 
 -How to reach me: gavottiguillermo@gmail.com, 
-                  @guillegavotti
+                  IG: @guillegavotti
